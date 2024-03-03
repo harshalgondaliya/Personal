@@ -1,0 +1,21 @@
+/* styles.css */
+
+.dice-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.dice {
+    text-align: center;
+}
+
+.dice img {
+    width: 100px;
+    height: 100px;
+}
+
+.roll-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
